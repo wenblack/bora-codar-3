@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1197534710257750520). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-## :memo: Licença
+## 📙 Licença
 
 Esse projeto está sob a licença MIT.
 
